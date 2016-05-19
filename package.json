@@ -1,0 +1,23 @@
+{
+  "name": "cas-cloud-demo-app-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanjaeger/cas-cloud-demo-app-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanjaeger/cas-cloud-demo-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/stefanjaeger/cas-cloud-demo-app-nodejs#readme"
+}
